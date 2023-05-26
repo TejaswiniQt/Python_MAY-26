@@ -1,0 +1,14 @@
+
+# dictionary
+
+dict1 = {'A':'Ram','B':'Shyam'}
+print(dict1)
+print(dict1.keys())
+print(dict1.values())
+print(dict1.items())
+
+dict1['C'] = 'John'
+print(dict1)
+
+dict1['B'] = 'Bheem'
+print(dict1)

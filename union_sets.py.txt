@@ -1,0 +1,6 @@
+#union of two sets
+
+set1 = {1,2,3,4}
+set2 = {5,4,6,7}
+set3 = set1 | set2
+print(set3)
